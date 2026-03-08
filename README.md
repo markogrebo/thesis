@@ -3,8 +3,8 @@
 This repository contains the source code developed and used for the analyses and experiments presented in the research article:  
 **"Deep Sequence-Based Models for Generating Reference Climate Datasets in Buildings’ Energy Efficiency Assessment"**, submitted to *IEEE Access*.
 
-The code is available at: https://github.com/markogrebo/RY  
-A citable version with DOI is archived at Zenodo: https://doi.org/10.5281/zenodo.15768673
+The code is available at: https://github.com/markogrebo/thesis  
+A citable version with DOI is archived at Zenodo: https://doi.org/10.5281/zenodo.17065565
 
 ## 📂 Repository Structure
 
